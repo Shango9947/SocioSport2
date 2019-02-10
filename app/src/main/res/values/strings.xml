@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Socio-Sport</string>
+    <string name="action_settings">Settings</string>
+    <string name="football">football</string>
+    <string name="badminton">badminton</string>
+    <string name="_4pm_5pm">4pm-5pm</string>
+    <string name="_5pm_6pm">5pm-6pm</string>
+    <string name="_6pm_7pm">6pm-7pm</string>
+    <string name="_7pm_8pm">7pm-8pm</string>
+    <string name="_8pm_9pm">8pm-9pm</string>
+    <string name="now">now</string>
+    <string name="add_your_time">Add your time</string>
+    <string name="pubg">PubG</string>
+    <string name="cs_go">CS GO</string>
+    <string name="enter_your_email_address">Enter your Email Address</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="come_on_in">Come On In</string>
+    <string name="login">Login</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="submit">Submit</string>
+    <string name="submit1">submit1</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
